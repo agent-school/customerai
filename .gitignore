@@ -21,6 +21,9 @@ node_modules/
 out/
 *.tsbuildinfo
 
+# Scaffolded sub-projects
+frontend/customerai-frontend/
+
 # Environment
 .env
 .env.local
